@@ -1,2 +1,2 @@
-# DeepLearning_ND
+# deep learning nanodegree
 Udacity Deep Learning Nanodegree
